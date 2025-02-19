@@ -1,10 +1,10 @@
-📊 ##Reporte de Ventas en la Industria de Videojuegos
+# 📊 Reporte de Ventas en la Industria de Videojuegos
 
 Este dashboard interactivo, desarrollado en Power BI, presenta un análisis detallado de las ventas en la industria de los videojuegos, segmentadas por año, región, plataforma y género. 
 
 El objetivo es proporcionar una visión clara de cómo ha evolucionado el mercado y qué factores han influido en el desempeño de las ventas.
 
-🔹 ##Características principales:
+# 🔹 Características principales:
 
 Resumen Ejecutivo: Muestra las ventas totales en millones de unidades.
 
