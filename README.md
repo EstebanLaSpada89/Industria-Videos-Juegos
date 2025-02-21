@@ -17,3 +17,7 @@ Ventas por Plataforma: Comparación de las principales consolas y su impacto en 
 Ventas por Género: Evaluación de la popularidad de distintos géneros de videojuegos.
 
 Detalle de Juegos: Lista con información específica sobre títulos y su volumen de ventas.
+
+
+
+![Captura de pantalla (207)](https://github.com/user-attachments/assets/3882cd91-413d-4bf1-b48a-02334f1e7b9a)
